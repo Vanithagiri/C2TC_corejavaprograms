@@ -1,10 +1,8 @@
 package shoppingmall;
 
-public class Clothes {
-
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+public class Clothes implements Shopping{
+	public void purchase() {
+		System.out.println("I want to purchase clothes");
 	}
 
 }
