@@ -22,5 +22,4 @@ public class SynchronizationDemo {
 		System.out.println(acc);
 
 	}
-
 }
